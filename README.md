@@ -88,4 +88,4 @@ Contributions are welcome! Feel free to fork the repo and submit a pull request.
 
 📜 License
 This project is licensed under the MIT License.
-https://github.com/offrahul/blog-app/issues/1#issue-2970206723
+<!-- Uploading "Screenshot 2025-04-03 215841.png"... -->
